@@ -1,0 +1,20 @@
+Car_Name,Year,Selling_Price,Present_Price,Driven_kms,Fuel_Type,Selling_type,Transmission,Owner
+verna,2012,4.5,9.4,36000,Petrol,Dealer,Manual,0
+eon,2017,3.5,5.43,38488,Petrol,Dealer,Manual,0
+i20,2013,4.5,6.79,32000,Petrol,Dealer,Automatic,0
+i20,2014,6,7.6,77632,Diesel,Dealer,Manual,0
+verna,2015,8.25,9.4,61381,Diesel,Dealer,Manual,0
+verna,2013,5.11,9.4,36198,Petrol,Dealer,Automatic,0
+i10,2011,2.7,4.6,22517,Petrol,Dealer,Manual,0
+grand i10,2015,5.25,5.7,24678,Petrol,Dealer,Manual,0
+i10,2011,2.55,4.43,57000,Petrol,Dealer,Manual,0
+verna,2012,4.95,9.4,60000,Diesel,Dealer,Manual,0
+i20,2012,3.1,6.79,52132,Diesel,Dealer,Manual,0
+verna,2013,6.15,9.4,45000,Diesel,Dealer,Manual,0
+verna,2017,9.25,9.4,15001,Petrol,Dealer,Manual,0
+elantra,2015,11.45,14.79,12900,Petrol,Dealer,Automatic,0
+grand i10,2013,3.9,5.7,53000,Diesel,Dealer,Manual,0
+grand i10,2015,5.5,5.7,4492,Petrol,Dealer,Manual,0
+verna,2017,9.1,9.4,15141,Petrol,Dealer,Manual,0
+eon,2016,3.1,4.43,11849,Petrol,Dealer,Manual,0
+creta,2015,11.25,13.6,68000,Diesel,Dealer,Manual,0
